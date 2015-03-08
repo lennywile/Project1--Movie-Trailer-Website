@@ -21,29 +21,25 @@ import fresh_tomatoes  # provided to us for displaying web pages
 animal_house = media.Movie("Animal House",
                            "An educational classic of Greek college living in \
                            the 1960's",
-                           "http://upload.wikimedia.org/wikipedia/en/e/ea/ \
-                           Animalhouseposter.jpg",
+                           "http://upload.wikimedia.org/wikipedia/en/e/ea/Animalhouseposter.jpg",
                            "https://www.youtube.com/watch?v=BoS3-yHoaSY")
 
 
 caddyshack = media.Movie("Caddyshack",
                          "The authoritative golfing movie",
-                         "http://upload.wikimedia.org/wikipedia/en/8/8 \
-                         4/Caddyshack_poster.jpg",
+                         "http://upload.wikimedia.org/wikipedia/en/8/84/Caddyshack_poster.jpg",
                          "https://www.youtube.com/watch?v=zrTqenN1SqQ")
 
 
-stripes = media.Movie("Stripes"
+stripes = media.Movie("Stripes",
                       "Why everyone should join the US Army",
-                      "http://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Stripes \
-                      poster.jpg/220px-Stripesposter.jpg",
+                      "http://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Stripesposter.jpg/220px-Stripesposter.jpg",
                       "https://www.youtube.com/watch?v=Md4Xk-PbSpk")
 
 
 godfather = media.Movie("The GodFather",
                         "New York crime family entertainment at its best",
-                        "http://upload.wikimedia.org/wikipedia/en/thumb/1/1c/God \
-                        father_ver1.jpg/220px-Godfather_ver1.jpg",
+                        "http://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Godfather_ver1.jpg/220px-Godfather_ver1.jpg",
                         "https://www.youtube.com/watch?v=sY1S34973zA")
 
 
@@ -55,9 +51,7 @@ rudy = media.Movie("Rudy",
 
 hoosiers = media.Movie("Hoosiers",
                        "An early version of the Spurs",
-                       "http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/ \
-                       Hoosiers_movie_poster_copyright_fairuse.jpg/220px- \
-                       Hoosiers_movie_poster_copyright_fairuse.jpg",
+                       "http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Hoosiers_movie_poster_copyright_fairuse.jpg/220px-Hoosiers_movie_poster_copyright_fairuse.jpg",
                        "https://www.youtube.com/watch?v=33DEm0eW-wU")
 
 # now add the instances to an array of instances called movies
